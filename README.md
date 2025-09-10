@@ -1,7 +1,6 @@
 # CCCS 106 Projects 
 Application Development and Emerging Technologies 
 Academic Year 2025-2026 
-ECHO is on.
 
 ## Student Information
 - **Name:** John Louie B. Bagaporo
