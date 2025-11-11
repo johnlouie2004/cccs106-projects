@@ -1,0 +1,4 @@
+flet==0.28.3
+httpx
+python-dotenv
+OpenWeatherMap
